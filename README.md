@@ -2,8 +2,7 @@
 - 👀 I’m interested in ...solutions architecture
 - 🌱 I’m currently learning ... Python, SQL, and AWS
 - 💞️ I’m looking to build systems across... Healthcare, Finance, and Technology
-- 📫 How to reach me ... [
-](https://linktr.ee/cjw115)- 
+- 📫 How to reach me ... https://linktr.ee/cjw115 
 - ⚡ - Lucky line seven lingers on data that drives innovative sentence diction.
 
 <!---
